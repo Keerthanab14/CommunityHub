@@ -1,5 +1,5 @@
 <h1 align="center">
-  CommunityHub - Always Connected
+  CommunityHub
 </h1>
 
 ## Tech Stack -
